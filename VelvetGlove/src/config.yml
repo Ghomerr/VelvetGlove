@@ -1,0 +1,4 @@
+velvetglove: snow_ball
+targets:
+    players: true
+    others: true
