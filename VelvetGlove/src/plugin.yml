@@ -1,6 +1,6 @@
 name: VelvetGlove
 main: com.ghomerr.velvetglove.VelvetGlove
-version: 1.0.2 [1.4.7-R1.0]
+version: 1.0.3 [1.5.1-R0.2]
 author: Ghomerr
 description: Define a velvet glove to deal no damage. Use configuration to select a velvet glove among minecraft items. You can choose to deal no damage to players and/or others entities.
 commands:
