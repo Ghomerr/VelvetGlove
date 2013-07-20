@@ -37,7 +37,7 @@ public class EventsListener implements Listener
 						final ItemStack itemInHand = player.getItemInHand();
 						if (itemInHand != null && itemInHand.getType() == _plugin.getVelvetGloveMaterial())
 						{
-							event.setDamage(0);
+							event.setDamage(0f);
 						}
 					}
 				}
